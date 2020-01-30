@@ -1,5 +1,4 @@
 /*Write the following code in your editor below:
-
         A class named Arithmetic with a method named add that takes
 
         integers as parameters and returns an integer denoting their sum.
